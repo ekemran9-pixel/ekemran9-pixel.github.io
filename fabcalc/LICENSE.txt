@@ -1,5 +1,5 @@
 FabCalc Pro — Fabrication Calculator
-Copyright (c) 2026 Emran (ekemran9@gmail.com). All rights reserved.
+Copyright (c) 2026 Emran-mia (ekemran9@gmail.com). All rights reserved.
 
 PROPRIETARY SOFTWARE — NOT OPEN SOURCE
 
