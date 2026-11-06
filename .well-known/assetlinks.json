@@ -1,12 +1,8 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.emran.fabcalc",
-      "sha256_cert_fingerprints": [
-        "REPLACE_WITH_SHA256_FINGERPRINT_FROM_PWABUILDER"
-      ]
-    }
-  }
-]
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.emran.fabcalc",
+        "sha256_cert_fingerprints": ["F6:13:BA:6E:E6:76:F0:94:7A:A9:E4:DE:76:1B:CA:7A:88:B2:D9:1D:1A:79:46:8C:7D:BD:A8:55:61:50:39:93"]
+      }
+    }]
